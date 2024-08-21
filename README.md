@@ -27,11 +27,11 @@
 <br>
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Nodejs-006600?style=flat&logo=Nodejs&logoColor=white" />
+	<img src="https://img.shields.io/badge/Nodejs-006600?style=flat&logo=NodeJS&logoColor=white" />
 	<img src="https://img.shields.io/badge/FastAPI-EF2D5E?style=flat&logo=Fastapi&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-008FC7?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/Reactjs-34567C?style=flat&logo=Javascript&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML-FE5F50?style=flat&logo=HTML&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML-FE5F50?style=flat&logo=Html&logoColor=white" />
 	<img src="https://img.shields.io/badge/Mysql-5A45FF?style=flat&logo=Mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/MongoDB-0ABF53?style=flat&logo=Mongodb&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
