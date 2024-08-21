@@ -9,12 +9,6 @@
 <br>
 <br>
 <div align=center>
-	<h3>:star2: Certificate :star2:</h3>
-	<h6> 리눅스마스터 2급 </h6>
-	<h6> AI-900 </h6>
-</div>
-<br>
-<div align=center>
 	<h3>:raising_hand: Education & Intern :raising_hand:</h3>
 	<h6> AWS 기반 인공지능 풀스택 개발자 - IT여성기업인협회 (2024.03 - 2024.08) </h6>
 	<h6> 헬스케어 임베디드 Python 소프트웨어 개발 인턴 - 시너인 (2023.07 - 2023.09) </h6>
@@ -40,6 +34,12 @@
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 	
 </div>
+<div align=center>
+	<h3>:star2: Certificate :star2:</h3>
+	<h6> 리눅스마스터 2급 </h6>
+	<h6> AI-900 </h6>
+</div>
+<br>
 <br>
 <br>
 <div align=center>
