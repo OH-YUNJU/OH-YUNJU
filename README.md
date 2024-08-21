@@ -34,12 +34,12 @@
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 	
 </div>
+<br>
 <div align=center>
 	<h3>:star2: Certificate :star2:</h3>
 	<h6> 리눅스마스터 2급 </h6>
 	<h6> AI-900 </h6>
 </div>
-<br>
 <br>
 <br>
 <div align=center>
