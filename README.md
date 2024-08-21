@@ -42,6 +42,12 @@
 </div>
 <br>
 <br>
+<div align=center>
+	<h3>🍓 contact 🍓</h3>
+	<a href="mailto:bibi02180@naver.com><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=naver&logoColor=white&link=mailto:bibi02180@naver.com"/></a>
+</div>
+<br>
+<br>
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=OH-YUNJU&show_icons=true">
   
