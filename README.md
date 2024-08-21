@@ -12,7 +12,7 @@
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Nodejs-3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Nodejs-006600?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/FastAPI-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Reactjs-3776AB?style=flat&logo=Python&logoColor=white" />
