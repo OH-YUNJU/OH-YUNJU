@@ -39,6 +39,7 @@
 	<h3>:star2: Certificate :star2:</h3>
 	<h6> 리눅스마스터 2급 </h6>
 	<h6> AI-900 </h6>
+	<h6> OPIC - english IM1 </h6>
 </div>
 <br>
 <br>
