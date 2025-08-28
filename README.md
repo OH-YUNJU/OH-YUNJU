@@ -10,8 +10,10 @@
 <br>
 <div align=center>
 	<h3>:raising_hand: Education & Intern :raising_hand:</h3>
+	<h6> DT팀 AI 선행프로젝트 인턴 - OTIS Korea (2025.04 - 2025.08) </h6>
 	<h6> AWS 기반 인공지능 풀스택 개발자 - IT여성기업인협회 (2024.03 - 2024.08) </h6>
 	<h6> 헬스케어 임베디드 Python 소프트웨어 개발 인턴 - 시너인 (2023.07 - 2023.09) </h6>
+	
 </div>
 <br>
 <div align=center>
@@ -56,3 +58,4 @@
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bibi0218)](https://solved.ac/bibi0218)
   
 </div>
+
